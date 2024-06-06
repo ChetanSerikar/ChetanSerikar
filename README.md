@@ -4,7 +4,7 @@ Hi! My name is Chetan Serikar 😄
 🌍  I am a Front-End Developer based in Kalburgi, Karnataka.
 <br/>
 
-### SKILLS
+### **SKILLS**
 
 ## Front-End :
 <p align="center">
