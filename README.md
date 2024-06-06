@@ -21,7 +21,7 @@ Hi! My name is Chetan Serikar 😄
 </p>
 
 ## Other :
-<p align="center">
+<p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,figma,php,github" />
   </a>
