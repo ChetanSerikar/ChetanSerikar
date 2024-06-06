@@ -8,9 +8,7 @@ Hi! My name is Chetan Serikar 😄
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,js,ts,react,redux" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,express" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=java,figma,php,github" />
+    [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,sass)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=java,figma,php,github)](https://skillicons.dev)
   </a>
 </p>
 <br/>
