@@ -4,23 +4,23 @@ Hi! My name is Chetan Serikar 😄
 🌍  I am a Front-End Developer based in Kalburgi, Karnataka.
 <br/>
 
-### **SKILLS**
+## __SKILLS__
 
-## Front-End :
-<p align="center">
+### Front-End :
+<p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,js,ts,react,redux" />
   </a>
 </p>
 
-## Back-End :
-<p align="center">
+### Back-End :
+<p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,express" />
   </a>
 </p>
 
-## Other :
+### Other :
 <p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,figma,php,github" />
